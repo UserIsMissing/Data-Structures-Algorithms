@@ -1,4 +1,4 @@
-# Data-Structures-Algorithms_C-C-
+# Data-Structures-Algorithms_C/C++
 For Job Applications - Portfolio of Data Structures and Algorithms Coursework (CSE-101) Written in C and C++
 
 This repository highlights my work from UCSC's CSE-101 class, where I learned essential data structures and algorithms and implemented them in C/C++. The course covered the design and analysis of key data structures, including linked lists, stacks, queues, hash tables, trees, heaps, and graphs, along with techniques for analyzing algorithm efficiency using Big-O notation.
