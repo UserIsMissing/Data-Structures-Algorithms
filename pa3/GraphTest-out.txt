@@ -1,0 +1,15 @@
+
+
+Test DG_getSize: [0;32mPASSED[0m
+Test DG_getParent: [0;32mPASSED[0m
+Test DG_getDiscover: [0;32mPASSED[0m
+Test DG_getFinish: [0;32mPASSED[0m
+Test UG_getSize: [0;32mPASSED[0m
+Test UG_getParent: [0;32mPASSED[0m
+Test UG_getDiscover: [0;32mPASSED[0m
+Test UG_getFinish: [0;32mPASSED[0m
+
+You passed 8 out of 8 tests
+
+You will receive 40 out of 40 possible points on the GraphTest
+
